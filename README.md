@@ -7,7 +7,7 @@
   * [Imagen Ignore (Elastica)](#imagen-ignore-(elastica))
   * [Imagen Keep (Proporcional)](#imagen-keep-(proporcional))
   * [Imágenes utilizadas](#imágenes-utilizadas)
-  * [Presizualización](#presizualización)
+  * [Previsualización](#previsualización)
 
 # Recursos utilizados
 
@@ -119,6 +119,6 @@ label.setPixmap(imagen)
 - [Imagen 1](https://pics.alphacoders.com/pictures/view/377738 "Imagen 1")
 - [Imagen 2](https://pics.alphacoders.com/pictures/view/365718 "Imagen 2")
 
-# Presizualización
+# Previsualización
 
 ![](https://1.bp.blogspot.com/-NLuOv1VTPP0/YFkHiQo7OJI/AAAAAAAAAIo/I7li26Gs7Qcs78sxa1zvpxaOG7D6SBklgCLcBGAsYHQ/s1600/516514515.jpg)
